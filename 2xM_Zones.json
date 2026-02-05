@@ -2,7 +2,7 @@
   {
     "id": -1,
     "name": "More Stuff Only For You!",
-    "cover": "{COVER_URL}/dc.png",
+    "cover": "{COVER_URL}/gn.png",
     "url": "https://github.com/HowTo-Mod"
   },
   {
@@ -103,11 +103,11 @@
   },
   {
     "id": 12,
-    "name": "Subway Surfers: San Francisco",
+    "name": "froggies arcade",
     "cover": "{COVER_URL}/12.png",
     "url": "{HTML_URL}/12.html",
     "author": "SYBO",
-    "authorLink": "https://sybogames.com"
+    "authorLink": "https://frogiesarcade.win/"
   },
   {
     "id": 13,
